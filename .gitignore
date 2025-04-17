@@ -1,3 +1,4 @@
+.DS_Store
 cmake-build-debug/
 build/
 bin/
@@ -7,4 +8,3 @@ obj/
 **temp**
 **tmp**
 Project/
-
